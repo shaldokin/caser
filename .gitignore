@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.DS_Store
+test.py
+venv
+OLD.md
+old.py
+.idea
+build
+*.so
+*.pyd
+caser/caser.c
